@@ -19,5 +19,5 @@ This project is still being structured for public use. Setup instructions and da
 
 ## Authors
 
-- Joseph (this repo)
-- Kareem (graph theory co-lead)
+- Joseph
+- Karim
