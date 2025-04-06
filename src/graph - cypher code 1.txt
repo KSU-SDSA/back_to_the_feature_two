@@ -62,7 +62,17 @@ SET
         THEN toFloat(row.from_budget) ELSE NULL END,
     m.numVotes = CASE 
         WHEN row.from_numVotes IS NOT NULL AND row.from_numVotes <> "" 
-        THEN toInteger(row.from_numVotes) ELSE NULL END;
+        THEN toInteger(row.from_numVotes) ELSE NULL END,
+    m.budgetCategory = CASE 
+        WHEN row.from_budget_category IS NOT NULL AND row.from_budget_category <> "" 
+        THEN row.from_budget_category ELSE NULL END,
+    m.profit = CASE 
+        WHEN row.profit IS NOT NULL AND row.profit <> "" 
+        THEN toFloat(row.profit) ELSE NULL END,
+    m.profitPercentGain = CASE 
+        WHEN row.profit_percent_gain IS NOT NULL AND row.profit_percent_gain <> "" 
+        THEN toFloat(row.profit_percent_gain) ELSE NULL END;
+
 
 ---
 
