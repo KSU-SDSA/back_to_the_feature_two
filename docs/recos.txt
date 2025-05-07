@@ -1,41 +1,122 @@
-Love Actually:
-Top 2 Actors: Gary Oldman, Anya Taylor-Joy
-Top Director: Angelina Jolie
-Top Producer: N/A
-Top Director of Photography: Jan de Bont
-Top Production Company: Ross Hunter Productions
+Nope:
 
-Talladega Nights: The Ballad of Ricky Bobby:
-Top 2 Actors: Sonny Landham, Timothée Chalamet
-Top Director: John Carpenter
-Top Producer: N/A
-Top Director of Photography: João Fernandes
-Top Production Company: Universal Pictures
+Low:  
+Cluster ID: 11  
+Top 2 Actors: Cristal Aparicio, Timothée Chalamet  
+Top Director: Kevin Smith  
+Top Director of Photography: Sayombhu Mukdeeprom  
+Top Production Company: EMI Films  
+
+Medium:  
+Cluster ID: 16  
+Top 2 Actors: Brent Corrigan, Gene Hackman  
+Top Director: Clint Eastwood  
+Top Director of Photography: Paul Thomas Anderson  
+Top Production Company: Robert Wise Productions  
+
+High:  
+Cluster ID: 4  
+Top 2 Actors: Alan Pflueger, Scarlett Johansson  
+Top Director: Clint Eastwood  
+Top Director of Photography: Michael Chapman  
+Top Production Company: United Artists  
+
+Tentpole:  
+Cluster ID: 12  
+Top 2 Actors: Scarlett Johansson, Gene Hackman  
+Top Director: Ben Affleck  
+Top Director of Photography: Anna Foerster  
+Top Production Company: EON Productions  
+
 
 Scarface:
-Top 2 Actors: Keanu Reeves, Samuel L. Jackson
-Top Director: Quentin Tarantino
-Top Producer: N/A
-Top Director of Photography: Dan Laustsen
-Top Production Company: 20th Century Fox
 
-Erin Brockovich:
-Top 2 Actors: Scarlett Johansson, Gene Hackman
-Top Director: Ben Affleck
-Top Producer: N/A
-Top Director of Photography: Anna Foerster
-Top Production Company: EON Productions
+Low:  
+Cluster ID: 6  
+Top 2 Actors: Nicole Kidman, John Hurt  
+Top Director: Lars von Trier  
+Top Director of Photography: Anthony Dod Mantle  
+Top Production Company: Film i Väst  
 
-Man on the Moon:
-Top 2 Actors: Alexandra Daddario, Timothée Chalamet
-Top Director: Jon Favreau
-Top Producer: N/A
-Top Director of Photography: Steven Soderbergh
-Top Production Company: Universal Pictures
+Medium:  
+Cluster ID: 4  
+Top 2 Actors: Liam Neeson, Rachel Weisz  
+Top Director: Steven Spielberg  
+Top Director of Photography: David Lynch  
+Top Production Company: Paramount Pictures  
 
-Nope:
-Top 2 Actors: Scarlett Johansson, Gene Hackman
-Top Director: Ben Affleck
-Top Producer: N/A
-Top Director of Photography: Anna Foerster
-Top Production Company: EON Productions
+High:  
+Cluster ID: 16  
+Top 2 Actors: Arnaldo Santana, Keanu Reeves  
+Top Director: Quentin Tarantino  
+Top Director of Photography: John A. Alonzo  
+Top Production Company: 20th Century Fox  
+
+Tentpole:  
+Cluster ID: 19  
+Top 2 Actors: Timothée Chalamet, Scarlett Johansson  
+Top Director: Robert De Niro  
+Top Director of Photography: Janusz Kamiński  
+Top Production Company: Filmco International Productions  
+
+
+Love Actually:
+
+Low:  
+Cluster ID: 2  
+Top 2 Actors: Mikey Madison, Margaret Qualley  
+Top Director: Sean Baker  
+Top Director of Photography: Rodrigo Prieto  
+Top Production Company: Warner Bros. Pictures  
+
+Medium:  
+Cluster ID: 0  
+Top 2 Actors: Chasey Lain, Jill Kelly  
+Top Director: Bradley Cooper  
+Top Director of Photography: Paul Thomas Anderson  
+Top Production Company: Metro-Goldwyn-Mayer  
+
+High:  
+Cluster ID: 18  
+Top 2 Actors: Gary Oldman, Anya Taylor-Joy  
+Top Director: Angelina Jolie  
+Top Director of Photography: Jan de Bont  
+Top Production Company: Ross Hunter Productions  
+
+Tentpole:  
+Cluster ID: 7  
+Top 2 Actors: Scarlett Johansson, Jason Statham  
+Top Director: Clint Eastwood  
+Top Director of Photography: Thierry Arbogast  
+Top Production Company: Paramount Pictures  
+
+
+Talladega Nights: The Ballad of Ricky Bobby:
+
+Low:  
+Cluster ID: 0  
+Top 2 Actors: Ginger Lynn Allen, Scarlett Johansson  
+Top Director: Steven Spielberg  
+Top Director of Photography: Robert Rodriguez  
+Top Production Company: 20th Century Fox  
+
+Medium:  
+Cluster ID: 21  
+Top 2 Actors: Sonny Landham, Timothée Chalamet  
+Top Director: John Carpenter  
+Top Director of Photography: João Fernandes  
+Top Production Company: Universal Pictures  
+
+High:  
+Cluster ID: 8  
+Top 2 Actors: Maitland Ward, Sonny Landham  
+Top Director: Clint Eastwood  
+Top Director of Photography: Michael Chapman  
+Top Production Company: United Artists  
+
+Tentpole:  
+Cluster ID: 18  
+Top 2 Actors: Alexandra Daddario, Scarlett Johansson  
+Top Director: Jon Favreau  
+Top Director of Photography: Janusz Kamiński  
+Top Production Company: Columbia Pictures

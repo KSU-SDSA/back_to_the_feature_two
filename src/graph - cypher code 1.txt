@@ -37,11 +37,9 @@ REQUIRE c.name IS UNIQUE;
 ---
 
 //03. import movies
-LOAD CSV WITH HEADERS FROM "file:///graph_data.csv" AS row
-WITH row
-WHERE row.from_label = "Movie" AND row.from_tconst IS NOT NULL
 MERGE (m:Movie {tconst: row.from_tconst})
 SET 
+    m.label = row.label,
     m.primaryTitle = CASE 
         WHEN row.from_title IS NOT NULL AND row.from_title <> "" 
         THEN row.from_title ELSE "Unknown Title" END,
